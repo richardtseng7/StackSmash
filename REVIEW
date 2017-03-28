@@ -1,4 +1,4 @@
 This project was very interesting to think and learn about. It really illustrated how important it is to write safe server code and how meticulous 
-programmers need to be when writing. There were some frustrations and technical difficulties in getting terminal/GDB to cooperate, especially given
+programmers need to be when writing code. There were some frustrations and technical difficulties in getting terminal/GDB to cooperate, especially given
 the length of the request string. However, the feeling of hacking into the web server at the end made up for it all! Perhaps in the future there could be
 a bit more specification on the shell code and how it works.
